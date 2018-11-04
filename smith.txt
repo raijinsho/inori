@@ -1,0 +1,14 @@
+Creating new database...
+1125 codes found.
+225 Gameshark codes.
+100 PAR codes.
+800 RAW codes.
+Creating tables...
+Error: v_orc.txt not found!
+Error: EXCHANGE_TAGS not found!
+Error: JOKER_FORMATS not found!
+Creating indexes...
+File check complete.
+Operation over.
+Check smith.txt for details.
+Operation completed in 11/02/2018 05:32.
